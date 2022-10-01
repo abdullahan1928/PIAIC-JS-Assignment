@@ -1,0 +1,10 @@
+var favPlaces = ["Paris", "London", "New York", "Tokyo", "Hong Kong"];
+console.log(favPlaces)
+console.log([...favPlaces].sort())
+console.log(favPlaces)
+console.log([...favPlaces].sort().reverse())
+console.log(favPlaces)
+console.log(favPlaces.reverse())
+console.log(favPlaces.reverse())
+console.log(favPlaces.sort())
+console.log(favPlaces.sort().reverse())

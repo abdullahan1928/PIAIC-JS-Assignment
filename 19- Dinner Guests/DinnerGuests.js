@@ -1,0 +1,1 @@
+console.log('I am inviting 6 guests to dinner in 16th excercise');

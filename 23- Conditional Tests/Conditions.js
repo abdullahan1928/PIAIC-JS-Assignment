@@ -1,0 +1,12 @@
+var car = 'BMW';
+var car2 = 'Audi';
+console.log('Is car == car2? ' + (car == car2));
+console.log('Is car != car2? ' + (car != car2));
+console.log('Is car == BMW? ' + (car == 'BMW'));
+console.log('Is car != BMW? ' + (car != 'BMW'));
+console.log('Is car2 == BMW? ' + (car2 == 'BMW'));
+console.log('Is car2 != BMW? ' + (car2 != 'BMW'));
+console.log('Is car == Audi? ' + (car == 'Audi'));
+console.log('Is car != Audi? ' + (car != 'Audi'));
+console.log('Is car2 == Audi? ' + (car2 == 'Audi'));
+console.log('Is car2 != Audi? ' + (car2 != 'Audi'));
